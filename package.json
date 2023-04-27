@@ -1,13 +1,12 @@
 {
   "name": "parcel_npm",
   "version": "1.0.0",
-  "description": "",
-  
+  "source": "index.html",
+  "browserslist": "> 0.5%, last 2 versions, not dead",
   "scripts": {
-    "start": "parcel index.html",
-    "build": "parcel build index.html",
-    "deploy": "rm -rf dist/ && npm build && gh-pages -d dist",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "parcel",
+    "build": "parcel build",
+    "deploy": "gh-pages -d dist"
   },
   "homepage": "https://DashaDanilchenko.github.io/parcel_npm",
   "keywords": [],
