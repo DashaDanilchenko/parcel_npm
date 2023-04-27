@@ -1,24 +1,24 @@
 6187
 69C:\STUDIES\My_Portfolio\parcel_npm\node_modules\trim-repeated\license133261945964721802 0
 79C:\STUDIES\My_Portfolio\parcel_npm\node_modules\caniuse-lite\data\regions\GF.js133261945236721413 0
-65C:\STUDIES\My_Portfolio\parcel_npm\node_modules\@msgpackr-extract133261945965961346 1
+65C:\STUDIES\My_Portfolio\parcel_npm\node_modules\@msgpackr-extract133270529541629164 1
 99C:\STUDIES\My_Portfolio\parcel_npm\node_modules\@jridgewell\resolve-uri\dist\resolve-uri.umd.js.map133261945222483805 0
 54C:\STUDIES\My_Portfolio\parcel_npm\node_modules\@lezer133261945211017320 1
 126C:\STUDIES\My_Portfolio\parcel_npm\node_modules\@parcel\optimizer-htmlnano\node_modules\svgo\plugins\convertEllipseToCircle.js133261945226854490 0
-47C:\STUDIES\My_Portfolio\parcel_npm\package.json133270502794677000 0
+47C:\STUDIES\My_Portfolio\parcel_npm\package.json133270530172052531 0
 58C:\STUDIES\My_Portfolio\parcel_npm\node_modules\async\dist133261945965828488 1
 69C:\STUDIES\My_Portfolio\parcel_npm\node_modules\caniuse-lite\dist\lib133261945238508089 1
 105C:\STUDIES\My_Portfolio\parcel_npm\node_modules\@parcel\runtime-js\src\helpers\browser\prefetch-loader.js133261945228935082 0
 98C:\STUDIES\My_Portfolio\parcel_npm\node_modules\@parcel\runtime-js\src\helpers\worker\js-loader.js133261945228340663 0
-39C:\STUDIES\My_Portfolio\parcel_npm\dist133270511705580517 1
+39C:\STUDIES\My_Portfolio\parcel_npm\dist133270531425373669 1
 71C:\STUDIES\My_Portfolio\parcel_npm\node_modules\ordered-binary\index.js133261945222039609 0
 86C:\STUDIES\My_Portfolio\parcel_npm\node_modules\css-tree\lib\syntax\node\Identifier.js133261945235267792 0
 74C:\STUDIES\My_Portfolio\parcel_npm\node_modules\css-select\lib\sort.js.map133261945231370383 0
 45C:\STUDIES\My_Portfolio\parcel_npm\.gitignore133261966768204949 0
 45C:\STUDIES\My_Portfolio\parcel_npm\index.html133270502692496014 0
 92C:\STUDIES\My_Portfolio\parcel_npm\node_modules\caniuse-lite\data\features\input-datetime.js133261945237052194 0
-52C:\STUDIES\My_Portfolio\parcel_npm\package-lock.json133261945966251727 0
-47C:\STUDIES\My_Portfolio\parcel_npm\node_modules133261945965961346 1
+52C:\STUDIES\My_Portfolio\parcel_npm\package-lock.json133270529541905893 0
+47C:\STUDIES\My_Portfolio\parcel_npm\node_modules133270529541629164 1
 86C:\STUDIES\My_Portfolio\parcel_npm\node_modules\cosmiconfig\dist\ExplorerBase.d.ts.map133261945226213168 0
 79C:\STUDIES\My_Portfolio\parcel_npm\node_modules\dom-serializer\lib\esm\index.js133261945222178898 0
 62C:\STUDIES\My_Portfolio\parcel_npm\node_modules\balanced-match133261945964831870 1
@@ -71,7 +71,7 @@
 70C:\STUDIES\My_Portfolio\parcel_npm\node_modules\domhandler\lib\node.js133261945221278899 0
 59C:\STUDIES\My_Portfolio\parcel_npm\node_modules\ansi-styles133261945222039609 1
 82C:\STUDIES\My_Portfolio\parcel_npm\node_modules\source-map-js\lib\binary-search.js133261945222493799 0
-66C:\STUDIES\My_Portfolio\parcel_npm\node_modules\.package-lock.json133261945966371350 0
+66C:\STUDIES\My_Portfolio\parcel_npm\node_modules\.package-lock.json133270529542055888 0
 93C:\STUDIES\My_Portfolio\parcel_npm\node_modules\@parcel\optimizer-svgo\node_modules\.bin\svgo133261945239362926 0
 73C:\STUDIES\My_Portfolio\parcel_npm\node_modules\terser\lib\mozilla-ast.js133261945230108854 0
 57C:\STUDIES\My_Portfolio\parcel_npm\node_modules\@mischnic133261945210974914 1
@@ -93,7 +93,7 @@
 93C:\STUDIES\My_Portfolio\parcel_npm\node_modules\caniuse-lite\data\features\async-functions.js133261945229390202 0
 82C:\STUDIES\My_Portfolio\parcel_npm\node_modules\cosmiconfig\dist\cacheWrapper.d.ts133261945228845640 0
 68C:\STUDIES\My_Portfolio\parcel_npm\node_modules\electron-to-chromium133261945226023629 1
-53C:\STUDIES\My_Portfolio\parcel_npm\node_modules\@lmdb133261945965961346 1
+53C:\STUDIES\My_Portfolio\parcel_npm\node_modules\@lmdb133270529541629164 1
 82C:\STUDIES\My_Portfolio\parcel_npm\node_modules\svgo\plugins\removeRasterImages.js133261945230578294 0
 101C:\STUDIES\My_Portfolio\parcel_npm\node_modules\@parcel\optimizer-svgo\node_modules\svgo\package.json133261945232686530 0
 76C:\STUDIES\My_Portfolio\parcel_npm\node_modules\weak-lru-cache\tests\test.js133261945222974486 0
@@ -4910,7 +4910,7 @@
 81C:\STUDIES\My_Portfolio\parcel_npm\node_modules\@parcel\workers\lib\childState.js133261945223894034 0
 79C:\STUDIES\My_Portfolio\parcel_npm\node_modules\@parcel\workers\lib\cpuCount.js133261945224926647 0
 76C:\STUDIES\My_Portfolio\parcel_npm\node_modules\@parcel\workers\lib\index.js133261945226487592 0
-50C:\STUDIES\My_Portfolio\parcel_npm\dist\index.html133270511705554251 0
+50C:\STUDIES\My_Portfolio\parcel_npm\dist\index.html133270531425343669 0
 74C:\STUDIES\My_Portfolio\parcel_npm\node_modules\@parcel\core\src\worker.js133261945234883476 0
 79C:\STUDIES\My_Portfolio\parcel_npm\node_modules\@parcel\workers\lib\Profiler.js133261945228350662 0
 75C:\STUDIES\My_Portfolio\parcel_npm\node_modules\@parcel\workers\lib\threads133261945229104048 1
@@ -4960,7 +4960,7 @@
 73C:\STUDIES\My_Portfolio\parcel_npm\node_modules\@parcel\packager-html\src133261945221212988 1
 91C:\STUDIES\My_Portfolio\parcel_npm\node_modules\@parcel\watcher\src\linux\InotifyBackend.cc133261945224882336 0
 86C:\STUDIES\My_Portfolio\parcel_npm\node_modules\@parcel\watcher\prebuilds\darwin-arm64133261945229241101 1
-58C:\STUDIES\My_Portfolio\parcel_npm\dist\index.8dc41880.css133270511705554251 0
+58C:\STUDIES\My_Portfolio\parcel_npm\dist\index.8dc41880.css133270531425343669 0
 84C:\STUDIES\My_Portfolio\parcel_npm\node_modules\@parcel\watcher\prebuilds\darwin-x64133261945229802887 1
 83C:\STUDIES\My_Portfolio\parcel_npm\node_modules\@parcel\watcher\prebuilds\linux-x64133261945231873395 1
 83C:\STUDIES\My_Portfolio\parcel_npm\node_modules\@parcel\watcher\prebuilds\win32-x64133261945231314677 1
@@ -6185,4 +6185,4 @@
 63C:\STUDIES\My_Portfolio\parcel_npm\node_modules\.bin\terser.ps1133261945239372925 0
 75C:\STUDIES\My_Portfolio\parcel_npm\node_modules\.bin\update-browserslist-db133261945239402958 0
 79C:\STUDIES\My_Portfolio\parcel_npm\node_modules\.bin\update-browserslist-db.cmd133261945239402958 0
-62C:\STUDIES\My_Portfolio\parcel_npm\dist\index.8dc41880.css.map133270511705580517 0
+62C:\STUDIES\My_Portfolio\parcel_npm\dist\index.8dc41880.css.map133270531425373669 0
