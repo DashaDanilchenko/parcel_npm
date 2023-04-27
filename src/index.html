@@ -4,11 +4,40 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-    
+    <title>Lizard & Spock</title>
+    <link rel="stylesheet" href="https://fontawesome.com/icons?d=gallery&q=notify&m=free">
+    <script src="https://kit.fontawesome.com/52fd4b3de4.js" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="./style.scss">
+    <link rel="stylesheet" href="./normalize.css">
 </head>
 <body>
-    <h1>Title</h1>
-   <img src="./img/photo.jpg" alt="photo">
+    <canvas id="my-canvas"></canvas>
+    <div class="game-container">
+        <div class="header">Rock Paper Scissors Lizard Spock</div>
+        <div class="player-container" id="player">
+            <h2>You - <span id="mark-gamer">0</span></h2>
+            <i class="fa-solid fa-hand-back-fist" id="rock"></i>
+            <i class="fa-solid fa-hand" id="paper"></i>
+            <i class="fa-solid fa-hand-scissors" id="scissors"></i>
+            <i class="fa-solid fa-hand-lizard" id="lizard"></i>
+            <i class="fa-solid fa-hand-spock" id="spock"></i>
+        </div>
+
+        <div class="player-computer" id="computer">
+            <h2>Computer - <span id="mark-computer">0</span></h2>
+            <i class="fa-solid fa-hand-back-fist" id="rockComp"></i>
+            <i class="fa-solid fa-hand" id="paperComp"></i>
+            <i class="fa-solid fa-hand-scissors" id="scissorsComp"></i>
+            <i class="fa-solid fa-hand-lizard" id="lizardComp"></i>
+            <i class="fa-solid fa-hand-spock" id="spockComp"></i>
+        </div>
+
+        <i class="fa-solid fa-rotate"></i>
+
+        <div class="result-container">
+            <h2 class="result-text"></h2>
+        </div>
+    </div> 
 </body>
+    <script src="./index.js" type="module"></script>
 </html>

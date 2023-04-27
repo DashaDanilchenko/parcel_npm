@@ -8,7 +8,7 @@
     "dev": "webpack",
     "prod": "webpack --node-env=production",
     "clear": "rd/s/q dist",
-    "deploy" : "gh-pages -d dist"
+    "deploy": "gh-pages -d dist"
   },
   "repository": {
     "type": "git",
@@ -20,7 +20,7 @@
   "bugs": {
     "url": "https://github.com/DashaDanilchenko/Webpack_Gulp/issues"
   },
-  "homepage": "https://github.com/DashaDanilchenko/Webpack_Gulp#readme",
+  "homepage": "https://DashaDanilchenko.github.io/parcel_npm",
   "devDependencies": {
     "@babel/core": "^7.20.12",
     "@babel/preset-env": "^7.20.2",
@@ -42,6 +42,7 @@
     "webpack-dev-server": "^4.11.1"
   },
   "dependencies": {
-    "@babel/polyfill": "^7.12.1"
+    "@babel/polyfill": "^7.12.1",
+    "confetti-js": "^0.0.18"
   }
 }
