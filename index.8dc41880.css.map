@@ -1,1 +1,0 @@
-{"mappings":"ACAA","sources":["index.8dc41880.css","src/styles.css"],"sourcesContent":["button {\n  background: #7fffd4;\n}\n\n/*# sourceMappingURL=index.8dc41880.css.map */\n","button {\r\n    background: aquamarine;\r\n}"],"names":[],"version":3,"file":"index.8dc41880.css.map"}
